@@ -1,0 +1,7 @@
+
+
+root     107515   2370  0 Aug31 ?        00:00:00 sshd: zoul-F22 [priv]
+zoul-F22 107532 107515  0 Aug31 ?        00:00:00 sshd: zoul-F22@pts/3
+zoul-F22 107533 107532  0 Aug31 pts/3    00:00:00 -sh
+zoul-F22 116976 107533  0 01:24 pts/3    00:00:00 ps -ef
+zoul-F22 116977 107533  0 01:24 pts/3    00:00:00 grep --color=auto zoul-F22

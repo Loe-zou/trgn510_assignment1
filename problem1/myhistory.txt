@@ -1,0 +1,267 @@
+    1  ls-1
+    2  ls -1
+    3  cd
+    4  cd -
+    5  passwd
+    6  mkdir
+    7  ls
+    8  ls ~
+    9  ls -1
+   10  mkdir bin
+   11  mkdir --help
+   12  mkdir bin
+   13  mkdir projects
+   14  mkdir scripts
+   15  ls
+   16  pwd
+   17  ls
+   18  mkdir assignments
+   19  ls
+   20  cd assignments
+   21  ls
+   22  git clone 
+   23  git clone 
+   24  ls
+   25  cd assignments
+   26  cd~
+   27  cd ~
+   28  git clone https://github.com/Loe-zou/trgn510_assignments1.git
+   29  cd trgn510_assignments1
+   30  cd ~
+   31  git clone https://github.com/Loe-zou/trgn510_assignment1.git
+   32  cd trgn510_assignment1
+   33  vim Readme.md
+   34  cd
+   35  ls
+   36  cd bin
+   37  ~/bin$ pwd
+   38  ~/bin pwd
+   39  ~/bin cd..
+   40  cd ~
+   41  mkdir bin
+   42  rmdir bin
+   43  cd ~
+   44  ls
+   45  cd ~
+   46  mkdir bin
+   47  cd ~
+   48  ls
+   49  pmd
+   50  cd
+   51  pwd
+   52  cd -
+   53  cd..
+   54  cd ..
+   55  cd ~
+   56  pwd
+   57  cd ..
+   58  pwd
+   59  mkdir bin
+   60  mkdir scripts
+   61  pwd
+   62  touch bin
+   63  mkdir bin
+   64  cd ~
+   65  cd bin
+   66  pwd
+   67  cd scripts
+   68  ls
+   69  pwd
+   70  cd ..
+   71  pwd
+   72  cd scripts
+   73  pwd
+   74  cd ..
+   75  pwd
+   76  ls
+   77  pwd
+   78  cd assignments
+   79  Readme.md
+   80  cd ..
+   81  pwd
+   82  cd assignments
+   83  ls
+   84  cd ..
+   85  ls
+   86  rmdir trgn510_assignment1
+   87  pwd
+   88  ls
+   89  rmdir trgn510_assignment1
+   90  pwd
+   91  ls
+   92  pwd
+   93  ls
+   94  cd trgn510_assignment1
+   95  ls
+   96  pwd
+   97  mv [trgn510_assignment1] assignments
+   98  cd~
+   99  cd ~
+  100  pwd
+  101  mv [trgn510_assignment1] assignments
+  102  pwd
+  103  ls
+  104  mv [trgn510_assignment1] assignments
+  105  cd..
+  106  cd ..
+  107  pwd
+  108  ds
+  109  df
+  110  cd zoul-F22
+  111  pwd
+  112  ls
+  113  cd assignments
+  114  ls
+  115  pwd
+  116  ls
+  117  mv [trgn510_assignment1] assignments
+  118  cd trgn510_assignment1
+  119  ls
+  120  rm README.md
+  121  ls
+  122  cd ..
+  123  pwd
+  124  ls
+  125  rm -rf trgn510_assignment1
+  126  ls
+  127  cd assignments
+  128  git clone https://github.com/Loe-zou/trgn510_assignment1.git
+  129  ls
+  130  pwd
+  131  cd trgn510_assignment1
+  132  pwd
+  133  vim Readme.md
+  134  ls
+  135  cd assignments
+  136  ls
+  137  cd trgn510_assignment1
+  138  ls
+  139  vim Readme.md
+  140  git add . -A
+  141  ls
+  142  cd assignments
+  143  pwd
+  144  ls
+  145  cd trgn510_assignment1
+  146  git add . -A
+  147  git commit -m "First commit"
+  148  git config --global user.email "zoul@usc.edu"
+  149  git config --global user.name "Loe-zou"
+  150  git add . -A
+  151  git commit -m "First commit"
+  152  git push
+  153  sh-4.2$ git commit -m "First commit"
+  154  git add . -A
+  155  sh-4.2$ git commit -m "First commit"
+  156  git commit -m "First commit"
+  157  git add . -A
+  158  git commit -m "First commit"
+  159  git push
+  160  pwd
+  161  mkdir problem1
+  162  pwd
+  163  ls
+  164  pwd
+  165  mkdir problem1
+  166  cd problem1
+  167  pwd
+  168  less .bashrc
+  169  vi
+  170  wget http://ftp.ensembl.org/pub/release-75/gtf/homo_sapiens/Homo_sapiens.GRCh37.75.gtf.gz
+  171  gunzip Homo_sapiens.GRCh37.75.gtf.gz
+  172  less Homo_sapiens.GRCh37.75.gtf
+  173  df
+  174  /\t
+  175  less Homo_sapiens.GRCh37.75.gtf
+  176  whereis echo
+  177  ls -1
+  178  pwd
+  179  echo hello
+  180  ls *ample
+  181  ls *p*
+  182  echo$Home
+  183  echo $home
+  184  $echo $path
+  185  echo $USER
+  186  echo $HOME
+  187  echo hello; echo there
+  188  ess Homo_sapiens.GRCh37.75.gtf
+  189  less Homo_sapiens.GRCh37.75.gtf
+  190  whereis bash
+  191  which bash
+  192  echo $PATH
+  193  [ -z “$PS1″ ] && return
+  194  color_prompt=yes
+  195  set color_prompt force_color_prompt
+  196  export PS1=”\[\033[38;5;6m\]\u\[$(tput sgr0)\]\[\033[38;5;15m\]@\[$(tput sgr0)\]\[\033[38;5;13m\]\h\[$(tput sgr0)\]\[\033[38;5;15m\]:\[$(tput bold)\]\[$(tput sgr0)\]\[\033[38;5;9m\]\w\[$(tput sgr0)\]\[$(tput sgr0)\]\[\033[38;5;15m\]\\$\[$(tput sgr0)\]”
+  197  #export PS1=”\[\e[32;46m\]\u\[\e[m\]\\$\\$\\$\\$\\$ ”
+  198  color_prompt=yes
+  199  [ -z “$PS1″ ] && return
+  200  color_prompt=yes
+  201  vim readme.md
+  202  vim raedme.md
+  203  vim readme.md
+  204  cd ~
+  205  git add . -A
+  206  pwd
+  207  ls
+  208  cd assignments
+  209  ls
+  210  cd trgn510_assignment1
+  211  ls
+  212  git add . -A
+  213  git commit -m "First Commit"
+  214  git push
+  215  history
+  216  grep "ls"
+  217  history | grep "ls"
+  218  pwd
+  219  ls
+  220  cd assignments
+  221  pwd
+  222  ls
+  223  cd trgn510_assignment1
+  224  history
+  225  pwd
+  226  mkdir problem1
+  227  ls
+  228  cd problem1
+  229  pwd
+  230  cd ..
+  231  pwd
+  232  cd ~
+  233  pwd
+  234  cd problem1
+  235  whereis problem1
+  236  ls
+  237  pwd
+  238  cd problem1/assignments
+  239  cd -
+  240  ls
+  241  cd problem1
+  242  ls
+  243  pwd
+  244  history > myhistory.problem1.txt
+  245  cat myhistory.txt
+  246  head problem1
+  247  pwd
+  248  ls
+  249  echo $PATH
+  250  echo hello world
+  251  ls -a
+  252  cd ~
+  253  ls
+  254  cd -
+  255  ls
+  256  cat LICENSE
+  257  cat LISENCE
+  258  pwd
+  259  cd problem1
+  260  pwd
+  261  ls
+  262  rm myhistory.problem1.txt
+  263  ls
+  264  pwd
+  265  history
+  266  history > myhistory.txt
+Loe is here
